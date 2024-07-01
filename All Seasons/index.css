@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg-container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    height: 90%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.image{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image img{
+    height: 50%;
+    width: 50%;
+}
+.btn1{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(122, 141, 134);
+}
+.btn{
+    height: 45%;
+    width: 20%;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+/* .sub1{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sub33{
+    width: 50%;
+    height: 100%;
+    background-image: url("rrrr.avif");
+}
+.sub44{
+    width: 50%;
+    height: 100%;
+    background-image: url("ss.avif");
+}
+.sub2{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sub55{
+    width: 50%;
+    height: 100%;
+    background-image: url("summm.avif");
+}
+.sub66{
+    width: 50%;
+    height: 100%;
+    background-image: url("win.avif");
+}
+.btn{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    height: 45%;
+    width: 20%;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+} */
